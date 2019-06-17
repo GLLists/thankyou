@@ -713,14 +713,6 @@ section.form .container {
 .theme-border {
   border: 1px solid #c0a375;
 }
-#header3-1 .mbr-section-title,
-#header3-1 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1 .mbr-section-title {
-  color: #ffffff;
-  font-size: 30px;
-}
 #extFeatures7-5 H5 {
   color: #668103;
 }
